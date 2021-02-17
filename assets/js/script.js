@@ -1,3 +1,7 @@
+function addRickedRolls () {
+	
+}
+
 document.addEventListener('DOMContentLoaded', function () {
 	const VideoPlayer = document.getElementById('my-video');
 
@@ -6,5 +10,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 		// alert(`Video Has Played`);
 		document.getElementById('itchafrank').innerText = 'SIKE! YOU JUST GOT RICKROLLED!';
+
+
 	});
 });
