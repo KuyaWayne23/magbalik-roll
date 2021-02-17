@@ -5,6 +5,6 @@ document.addEventListener('DOMContentLoaded', function () {
 		event.preventDefault();
 
 		// alert(`Video Has Played`);
-		document.getElementById('itchafrank').innerText = 'SIKE! YOU JUST GOT MAGBALIK-ROLLED!';
+		document.getElementById('itchafrank').innerText = 'SIKE! YOU JUST GOT RICKROLLED!';
 	});
 });
